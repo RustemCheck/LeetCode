@@ -3,6 +3,7 @@ public class TaskLongestCommonPrefix {
 
     }
     public static String longestCommonPrefix(String[] strs) {
-        return "";
+        String name = "Rustem";
+        return "Hello + " + name;
     }
 }
